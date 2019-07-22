@@ -3,9 +3,13 @@
 You can use the [editor on GitHub](https://github.com/vxutianmo/vxutianmo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 使用mpvue
+
+试了一下mpvue 因为刚用vue 和 sass 完成了一个线上购买 线下取货的项目，所以想了解怎么用vue来写小程序 更适应我的思维   同时也了解了Uniapp
 ### 使用taro
 
 了解了一下taro 是京东团队在维护的项目 能一套代码 直接适用小程序 h5 等 类react语法 
+开始做一个只能共享陪护床的项目
 ### 2019-7-22
 
 今天是搬公司后上班的第一天
