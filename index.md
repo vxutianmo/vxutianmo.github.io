@@ -3,11 +3,13 @@
 You can use the [editor on GitHub](https://github.com/vxutianmo/vxutianmo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 使用taro
 
-### Markdown
+了解了一下taro 是京东团队在维护的项目 能一套代码 直接适用小程序 h5 等 类react语法 
+### 2019-7-22
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+今天是搬公司后上班的第一天
+今天完成了时分秒的计算 
 ```markdown
 Syntax highlighted code block
 
