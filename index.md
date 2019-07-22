@@ -3,6 +3,12 @@
 You can use the [editor on GitHub](https://github.com/vxutianmo/vxutianmo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### antd  antd Pro
+刚到公司 学了antd，antd Pro是基于react的一个脚手架
+### jeecg boot
+研究了一下模板生成 快速又方便 jeecg boot前端部分运用了vue+antd 后端 Java redis 
+### vue线上购买线下取货
+商品展示 购物车 订单列表 订单详情 根据取货码取货
 ### 使用mpvue
 
 试了一下mpvue 因为刚用vue 和 sass 完成了一个线上购买 线下取货的项目，所以想了解怎么用vue来写小程序 更适应我的思维   同时也了解了Uniapp
