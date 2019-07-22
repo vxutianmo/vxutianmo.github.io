@@ -9,7 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 使用taro
 
 了解了一下taro 是京东团队在维护的项目 能一套代码 直接适用小程序 h5 等 类react语法 
-开始做一个只能共享陪护床的项目
+
+开始做一个智能共享陪护床的项目
 ### 2019-7-22
 
 今天是搬公司后上班的第一天
